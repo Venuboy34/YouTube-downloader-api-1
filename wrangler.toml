@@ -1,0 +1,5 @@
+name = "my-ytdl-api"
+type = "javascript"
+# account_id = "YOUR_ACCOUNT_ID"  # <-- Add your Cloudflare Account ID here when ready
+workers_dev = true
+compatibility_date = "2025-09-19"
