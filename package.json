@@ -1,0 +1,11 @@
+{
+  "name": "my-ytdl-api",
+  "version": "1.0.0",
+  "description": "YouTube Downloader API via downloaderto.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "wrangler dev",
+    "deploy": "wrangler publish"
+  },
+  "dependencies": {}
+}
