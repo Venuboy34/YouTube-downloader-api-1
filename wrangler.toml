@@ -1,5 +1,6 @@
 name = "my-ytdl-api"
-type = "javascript"
-# account_id = "YOUR_ACCOUNT_ID"  # <-- Add your Cloudflare Account ID here when ready
+# type = "javascript"  # Remove this line
+# account_id = "YOUR_ACCOUNT_ID"  # Add if you have it
 workers_dev = true
 compatibility_date = "2025-09-19"
+main = "index.js"
